@@ -3,5 +3,6 @@ lease car
 drive somewhere!
 and arrive
 tent
+torch
 stove
 logs
