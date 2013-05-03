@@ -1,8 +1,8 @@
 bananas
 beans
 pees
+cheese
+chicken
+pears
 tomatoes
 tuna
-chicken
-cheese
-pears
