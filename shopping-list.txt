@@ -1,7 +1,7 @@
 bananas
 beans
+cheese
+chicken
+pears
 tomatoes
 tuna
-chicken
-cheese
-pears
