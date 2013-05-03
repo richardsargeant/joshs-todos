@@ -6,3 +6,4 @@ chicken
 pears
 tomatoes
 tuna
+Peas
