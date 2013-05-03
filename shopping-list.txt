@@ -1,6 +1,5 @@
 apples
 bananas
-carrots
 beans
 tomatoes
 tuna
