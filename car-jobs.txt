@@ -3,3 +3,6 @@ choose car
 lease car
 drive somewhere!
 and arrive
+tent
+stove
+logs

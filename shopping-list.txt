@@ -3,3 +3,6 @@ bananas
 beans
 tomatoes
 tuna
+chicken
+cheese
+pears
